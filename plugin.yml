@@ -1,0 +1,9 @@
+name: SaicoHub
+main: com.pwncraftpvp.schub.core.Main
+description: SaicoPvP Hub!
+author: JjPwN1
+version: 0.8
+depend: [HolographicDisplays]
+commands:
+   saicohub:
+      description: Main SaicoHub command
